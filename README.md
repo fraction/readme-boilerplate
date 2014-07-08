@@ -1,6 +1,8 @@
 # README Boilerplate
 
-A collection of best practices for a simple and informative README.
+
+
+**The best README template.** A README is arguably the most important file you'll write – don't reinvent the wheel. This boilerplate is a template of best practices that are popular with the open-source community; using it will make your README easier to understand, and make your proejct easier to use.
 
 ## Installation
 
