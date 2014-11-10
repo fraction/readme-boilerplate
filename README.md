@@ -7,9 +7,9 @@ A template of README best practices to make your README simple to understand and
 Download to your project directory, add `README.md`, and commit:
 
 ```sh
-curl -O https://raw.githubusercontent.com/fraction/readme-boilerplate/master/README.md
+curl -LO http://git.io/Xy0Chg
 git add README.md
-git commit -m "Add README Boilerplate"
+git commit -m "Use README Boilerplate"
 ```
 
 ## Usage
