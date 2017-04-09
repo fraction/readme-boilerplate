@@ -2,6 +2,13 @@
 
 A template of README best practices to make your README simple to understand and easy to use. 
 
+## Contents
+
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Support](#support)
+4. [Contributing](#contributing)
+
 ## Installation
 
 Download to your project directory, add `README.md`, and commit:
