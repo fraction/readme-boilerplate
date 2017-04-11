@@ -2,7 +2,7 @@
 
 A template of README best practices to make your README simple to understand and easy to use. 
 
-## Contents
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
