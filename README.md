@@ -2,6 +2,13 @@
 
 A template of README best practices to make your README simple to understand and easy to use. 
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
+
 ## Installation
 
 Download to your project directory, add `README.md`, and commit:
@@ -16,12 +23,12 @@ git commit -m "Use README Boilerplate"
 
 Replace the contents of `README.md` with your project's:
 
-* Name
-* Description
-* Installation instructions
-* Usage instructions
-* Support instructions
-* Contributing instructions
+- Name
+- Description
+- Installation instructions
+- Usage instructions
+- Support instructions
+- Contributing instructions
 
 Feel free to remove any sections that aren't applicable to your project.
 
