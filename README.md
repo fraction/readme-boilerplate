@@ -4,10 +4,10 @@ A template of README best practices to make your README simple to understand and
 
 ## Table of Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Support](#support)
-* [Contributing](#contributing)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
 
 ## Installation
 
