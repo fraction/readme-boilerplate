@@ -29,7 +29,7 @@ Replace the contents of `README.md` with your project's:
 - Usage instructions
 - Support instructions
 - Contributing instructions
-- Licence
+- License
 
 Feel free to remove any sections that aren't applicable to your project.
 
